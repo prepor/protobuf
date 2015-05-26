@@ -5,12 +5,6 @@
 #
 require 'protobuf/message'
 
-
-##
-# Imports
-#
-require 'google/protobuf/descriptor.pb'
-
 module Google
   module Protobuf
     module Compiler

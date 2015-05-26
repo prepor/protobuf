@@ -5,12 +5,6 @@
 #
 require 'protobuf/message'
 
-
-##
-# Imports
-#
-require 'test/resource.pb'
-
 module Test
 
   ##

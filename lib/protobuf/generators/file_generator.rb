@@ -26,7 +26,7 @@ module Protobuf
 
           print_file_comment
           print_generic_requires
-          print_import_requires
+          # print_import_requires
 
           print_package do
             group = GroupGenerator.new(current_indent)

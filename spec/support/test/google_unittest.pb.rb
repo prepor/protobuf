@@ -6,12 +6,6 @@
 require 'protobuf/message'
 require 'protobuf/rpc/service'
 
-
-##
-# Imports
-#
-require 'test/google_unittest_import.pb'
-
 module GoogleUnittest
 
   ##
